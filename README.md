@@ -13,7 +13,7 @@
 
 <!-- Replace docs/preview.png with a screenshot of the theme in Zed (about 1600x1000, PNG) -->
 <p align="center">
-  <img width="900"  alt="Beyond Horizon theme preview" src="https://github.com/user-attachments/assets/0186fc7b-1692-4595-ba83-81bd33538dcb" />
+  <img src="https://github.com/user-attachments/assets/0186fc7b-1692-4595-ba83-81bd33538dcb" alt="Beyond Horizon theme preview" width="900">
 </p>
 
 ---
@@ -54,7 +54,7 @@ The theme looks right with defaults, but it is designed for semantic tokens in `
   "theme": "Beyond Horizon",
   "semantic_tokens": "combined",
   "colorize_brackets": true,
-  //"indent_guides": { "enabled": true, "coloring": "indent_aware" },
+  "indent_guides": { "enabled": true, "coloring": "indent_aware" },
   "inlay_hints": { "enabled": true },
   "global_lsp_settings": {
     "semantic_token_rules": [
@@ -128,9 +128,9 @@ Or edit `beyond-horizon.json` directly. Syntax colours live under `style.syntax`
 
 Beyond Horizon stands on the work of others:
 
-Horizon by Jonathan Olaleye, the original warm dark theme and the palette this theme is built on (MIT licence).
-Horizon Extended by Lance Wilhelm, the VS Code extension of Horizon that this theme follows for syntax colouring.
-Horizon Extended for Zed by Lance Wilhelm, the Zed port that Beyond Horizon started from.
+- **[Horizon](https://github.com/jolaleye/horizon-theme-vscode)** by [Jonathan Olaleye](https://github.com/jolaleye), the original warm dark theme and the palette this theme is built on (MIT licence).
+- **[Horizon Extended](https://github.com/lancewilhelm/horizon-extended)** by [Lance Wilhelm](https://github.com/lancewilhelm), the VS Code extension of Horizon that this theme follows for syntax colouring.
+- **[Horizon Extended for Zed](https://github.com/lancewilhelm/horizon-extended.zed)** by [Lance Wilhelm](https://github.com/lancewilhelm), the Zed port that Beyond Horizon started from.
 
 Layering, diff and vim colour structure, and the comment hierarchy were checked against Zed's official One, Ayu and Gruvbox themes.
 

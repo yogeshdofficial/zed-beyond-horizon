@@ -1,0 +1,7 @@
+id = "beyond-horizon-theme"
+name = "Beyond Horizon Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["yogeshdofficial <dyogesh.official@gmail.com>"]
+description = "Beyond Horizon Theme (derived from Horizon Extended)"
+repository = "https://github.com/yogeshdofficial/zed-beyond-horizon"

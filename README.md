@@ -126,4 +126,12 @@ Or edit `beyond-horizon.json` directly. Syntax colours live under `style.syntax`
 
 ## Credits
 
-Built on Horizon Extended (the VS Code and Zed ports) and the original Horizon palette. Layering, diff and vim colour structure, and the comment hierarchy were checked against Zed's official One, Ayu and Gruvbox themes. If you publish this, keep the upstream credit and licence terms.
+Beyond Horizon stands on the work of others:
+
+Horizon by Jonathan Olaleye, the original warm dark theme and the palette this theme is built on (MIT licence).
+Horizon Extended by Lance Wilhelm, the VS Code extension of Horizon that this theme follows for syntax colouring.
+Horizon Extended for Zed by Lance Wilhelm, the Zed port that Beyond Horizon started from.
+
+Layering, diff and vim colour structure, and the comment hierarchy were checked against Zed's official One, Ayu and Gruvbox themes.
+
+Please keep these credits, and the upstream licence terms, if you share or publish this theme.
